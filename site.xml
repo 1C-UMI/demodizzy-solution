@@ -1,0 +1,10 @@
+<site name="demodizzy" path="demodizzy">
+    <title><![CDATA[Современный]]></title>
+    <description><![CDATA[Полнофункциональный сайт, спроектированный специально для демонстрации обновленного модуля "Интернет-магазин". Сделан на xslt-шаблонизаторе. Предназначен для быстрого построения полноценного Интернет-магазина.]]></description>
+    <preview>http://install.umi-cms.ru/preview/demodizzy.png</preview>
+    <supported-licenses>
+        <license>shop</license>
+        <license>commerce</license>
+        <license>commerce_enc</license>
+    </supported-licenses>
+</site>
